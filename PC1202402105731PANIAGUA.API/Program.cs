@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using PC1202402105731PANIAGUA.DOMAIN.Infraestructure.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
