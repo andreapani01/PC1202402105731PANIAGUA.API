@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PC1202402105731PANIAGUA.API", "PC1202402105731PANIAGUA.API\PC1202402105731PANIAGUA.API.csproj", "{3CF7FCB6-A230-49F5-9582-2E3288231387}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PC1202402105731PANIAGUA.DOMAIN", "PC1202402105731PANIAGUA.DOMAIN\PC1202402105731PANIAGUA.DOMAIN.csproj", "{64374D4C-0B6A-4D47-B44B-030F481DBC7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CF7FCB6-A230-49F5-9582-2E3288231387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF7FCB6-A230-49F5-9582-2E3288231387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF7FCB6-A230-49F5-9582-2E3288231387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF7FCB6-A230-49F5-9582-2E3288231387}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64374D4C-0B6A-4D47-B44B-030F481DBC7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64374D4C-0B6A-4D47-B44B-030F481DBC7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64374D4C-0B6A-4D47-B44B-030F481DBC7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64374D4C-0B6A-4D47-B44B-030F481DBC7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E35B00A-60FA-4662-98CE-2A1A53CEA6F3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@PC1202402105731PANIAGUA.API_HostAddress = http://localhost:5053
+
+GET {{PC1202402105731PANIAGUA.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
