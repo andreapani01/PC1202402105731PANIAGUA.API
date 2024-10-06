@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace PC1202402105731PANIAGUA.DOMAIN.Infraestructure.Data;
+namespace PC1202402105731PANIAGUA.DOMAIN.Core.Entities;
 
 public partial class Attendees
 {

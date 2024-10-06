@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
+using PC1202402105731PANIAGUA.DOMAIN.Core.Entities;
 
 namespace PC1202402105731PANIAGUA.DOMAIN.Infraestructure.Data;
 
